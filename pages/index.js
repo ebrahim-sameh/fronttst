@@ -20,7 +20,7 @@ export default function Home({ products }) {
             </span>
           </h1>
           <p className={styles.description}>
-            Build blazing-fast client applications on top of a modular headless
+            Build aaaaaaaaaa blazing-fast client applications on top of a modular headless
             commerce engine. Integrate seamlessly with any 3rd party tools for a
             best-in-breed commerce stack.
           </p>
