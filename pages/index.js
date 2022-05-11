@@ -16,6 +16,7 @@ export default function Home({ products }) {
           <h1 className={styles.title}>
             Medusa + Next.js Starter{" "}
             <span role="img" aria-label="Rocket emoji">
+              <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
               🚀
             </span>
           </h1>
