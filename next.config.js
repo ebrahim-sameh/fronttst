@@ -1,6 +1,6 @@
 module.exports = {
   reactStrictMode: true,
   images: {
-    domains: ["medusa-public-images.s3.eu-west-1.amazonaws.com"],
+    domains: ["catzatst.s3.ap-southeast-1.amazonaws.com"],
   },
 };
